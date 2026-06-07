@@ -2,7 +2,7 @@
 
 Software Engineer from Brazil 🇧🇷 working remotely at [Cheesecake Labs](https://cheesecakelabs.com/).
 
-- Connect with on [Linkedin](https://www.linkedin.com/in/daniilomello/)
+- Connect on [Linkedin](https://www.linkedin.com/in/daniilomello/)
 - Contact me [via email](mailto:oi@daniilo.dev)
 - Visit my [personal website](https://daniilo.dev). 🚀
 
